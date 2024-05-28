@@ -30,9 +30,9 @@ Após executar o projeto as informações serão exibitas no terminal, com isso 
 ```bash
 prompt: Escolha a ferramenta (1 - QRCODE ou 2 - PASSWORD):
 ```
-Ao escolher a opção 1, duas perguntas serão realizadas:
+Ao escolher a **opção 1**, duas perguntas serão realizadas:
 ```bash
-prompt: Digite o link para gerar o QR CODE:
+prompt: Digite o link para gerar o QR CODE: www.google.com
 prompt: Escolha entre o tipo de QRCODE (1 - NORMAL ou 2 - TERMINAL):
 ```
 Respondidas as perguntas um QR Code Será exibido no terminal
@@ -52,11 +52,16 @@ Respondidas as perguntas um QR Code Será exibido no terminal
 █▄▄▄▄▄▄▄█▄▄▄▄██▄████▄██
 ```
 
-Se o usuario optar por escolher a opção 2, uma senha aleatória será gerada:
+Se o usuario optar por escolher a **opção 2**, uma senha aleatória será gerada imediatamente:
 ```bash
 password
 23lr^at!4$4p
 ```
+
+# Autor
+Matheus Fernando Vieira Pinto
+
+https://www.linkedin.com/in/matheus-fvp/
 
 
 
