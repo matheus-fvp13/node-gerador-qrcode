@@ -1,6 +1,6 @@
 import chalk from "chalk";
 
-export const mainPrompt = [
+const promptSchemaMain = [
     {
         name: "select",
         description: chalk.yellow.bold(
@@ -11,3 +11,5 @@ export const mainPrompt = [
         required: true
     }
 ]
+
+export default promptSchemaMain;
